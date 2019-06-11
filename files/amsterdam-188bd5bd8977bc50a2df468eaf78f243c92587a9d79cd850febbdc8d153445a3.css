@@ -114,9 +114,9 @@ a{
     content: "";
     height: 100%;
     position: absolute;
-    width: 277px;
+    width: 250px;
     top: 0;
-    left: 0;
+    left: 30;
     z-index: -1;
 }
 
