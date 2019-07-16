@@ -26,7 +26,8 @@ body{
 .body-resume .preview-box{
     margin-top:6rem;
     margin-bottom:6rem;
-    height:157.71429rem;
+    /*height:157.71429rem;*/
+    height:auto;
     overflow:hidden
 }
 .body--share{
@@ -183,6 +184,7 @@ margin:auto;
     font-size:2rem
 }
 .section__title{
+    letter-spacing:3px;
     text-transform:uppercase;
     font-weight:bolder;
     font-size:1.7rem;
@@ -196,6 +198,7 @@ margin:auto;
 }
 .section__title span{
     margin:0 0.2rem
+    letter-spacing:0px;
 }
 .sidebar{
     width:37rem;
